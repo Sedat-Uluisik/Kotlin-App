@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/retrofitFragment"
+        android:title="Retrofit"/>
+    <item android:id="@+id/roomFragment"
+        android:title="Room"/>
+    <item android:id="@+id/getImageFragment"
+        android:title="Get Image From Gallery"/>
+
+    <item android:id="@+id/workManagerFragment"
+        android:title="Work Manager"/>
+
+    <item android:id="@+id/firebaseFragment"
+        android:title="Firebase"/>
+
+    <item android:id="@+id/hiltFragment"
+        android:title="Hilt"/>
+
+</menu>

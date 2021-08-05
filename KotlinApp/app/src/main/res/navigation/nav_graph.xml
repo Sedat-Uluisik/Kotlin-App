@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/retrofitFragment">
+
+    <fragment
+        android:id="@+id/retrofitFragment"
+        android:name="com.sedat.kotlinapp.fragment.retrofit.RetrofitFragment"
+        android:label="Retrofit"
+        tools:layout="@layout/fragment_retrofit" />
+    <fragment
+        android:id="@+id/roomFragment"
+        android:name="com.sedat.kotlinapp.fragment.room.RoomFragment"
+        android:label="Room"
+        tools:layout="@layout/fragment_room" />
+    <fragment
+        android:id="@+id/getImageFragment"
+        android:name="com.sedat.kotlinapp.fragment.getimage.GetImageFragment"
+        android:label="Galeriden Resim Alma"
+        tools:layout="@layout/fragment_get_image" />
+    <fragment
+        android:id="@+id/workManagerFragment"
+        android:name="com.sedat.kotlinapp.fragment.workmanager.WorkManagerFragment"
+        android:label="Work Manager"
+        tools:layout="@layout/fragment_work_manager" />
+    <fragment
+        android:id="@+id/firebaseFragment"
+        android:name="com.sedat.kotlinapp.fragment.firebase.FirebaseFragment"
+        android:label="Firebase" />
+    <fragment
+        android:id="@+id/hiltFragment"
+        android:name="com.sedat.kotlinapp.fragment.hilt.HiltFragment"
+        android:label="Hilt"
+        tools:layout="@layout/fragment_hilt" />
+</navigation>

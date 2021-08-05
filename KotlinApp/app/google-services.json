@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "900362765512",
+    "firebase_url": "https://kotlininsta-edc83.firebaseio.com",
+    "project_id": "kotlininsta-edc83",
+    "storage_bucket": "kotlininsta-edc83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900362765512:android:aefa45e1b68641334ed1fd",
+        "android_client_info": {
+          "package_name": "com.sedat.kotlinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900362765512-pl16tmfn69ovjcq22tstjei2l896r41h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsfcd60sk9KOKXX1UuoZGJ_VbJS4B48c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900362765512-pl16tmfn69ovjcq22tstjei2l896r41h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900362765512:android:d8f54fd59d5f2c044ed1fd",
+        "android_client_info": {
+          "package_name": "com.sedat.kotlininsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900362765512-pl16tmfn69ovjcq22tstjei2l896r41h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsfcd60sk9KOKXX1UuoZGJ_VbJS4B48c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900362765512-pl16tmfn69ovjcq22tstjei2l896r41h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900362765512:android:c38b850aacba0a2b4ed1fd",
+        "android_client_info": {
+          "package_name": "com.sedat.sorusor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900362765512-pl16tmfn69ovjcq22tstjei2l896r41h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsfcd60sk9KOKXX1UuoZGJ_VbJS4B48c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900362765512-pl16tmfn69ovjcq22tstjei2l896r41h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
